@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! Yewande T.</h1>
+<h1 align="left">Hi 👋! Welcome to My Portfolio</h1>
 
 ###
 
@@ -13,6 +13,63 @@
 </div>
 
 ###
+##  Mission 
+
+To leverage data-driven insights to support strategic decision-making, empower teams through knowledge sharing, and continuously explore innovative solutions that make an impact in business and academia.
+
+---
+
+## About Me
+
+I am a versatile professional with experience across data analytics, project coordination, academic lecturing, and mentorship. My work bridges the gap between complex data and actionable insights—whether in the classroom, boardroom, or field.  
+I thrive in collaborative environments where learning is continuous and challenges are embraced with curiosity.
+
+---
+
+##  Skills
+
+- Data Analysis & Visualization  
+- Project Planning & Coordination  
+- Team Leadership & Mentorship  
+- Academic Instruction & Curriculum Design  
+- Business Insight Development  
+- Reporting & Dashboard Creation
+
+---
+
+## Tools & Technologies
+
+| Category           | Tools/Technologies                          |
+|--------------------|---------------------------------------------|
+| **Data Analysis**  | Excel, Power BI, SQL, Python (Pandas, NumPy)|
+| **Business Tools** | Microsoft Office Suite, Business Analysis Tools |
+| **Project Tools**  | Trello, Jira, Asana, MS Project             |
+| **Collaboration**  | Teams, Slack, Google Workspace              |
+| **Database**       | MySQL                                       |
+
+---
+
+## 📊 Projects
+
+| Project Title                      | Tools Used            | Description |
+|------------------------------------|------------------------|-------------|
+| **Sales & Revenue Dashboard**      | Power BI, Excel        | Interactive dashboard tracking regional sales, product KPIs, and revenue trends. |
+| **HR Analytics Dashboard**         | Power BI               | Analyzed employee attrition, satisfaction, and performance across departments. |
+| **Student Health Performance**     | Excel, Power BI        | Correlated health indicators with academic outcomes. |
+| **Fayamask Project Analysis**      | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
+| **Air Canada Supreme Dashboard**   | Power BI               | Operational metrics and performance insights for airline services. |
+| **FinTech Loan Tracking System**   | Excel, SQL             | Monitored disbursements, repayment trends, and risk levels. |
+
+---
+
+## Let's Connect
+
+Feel free to explore the projects above and reach out if you're interested in collaborating or learning together.  
+📧 Email: [Emailaddress] (yewandetaylor@hotmail.com)  
+🔗 LinkedIn: (https://www.linkedin.com/in/yewandeprofile/)
+🌐 Portfolio Website: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+
+---
 <!--
 **QueenYewande/QueenYewande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
