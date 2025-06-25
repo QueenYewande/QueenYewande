@@ -54,7 +54,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 | Project Title                      | Tools Used            | Description |
 |------------------------------------|------------------------|-------------|
 | **Sales & Revenue Dashboard**      | Power BI, Excel        | Interactive dashboard tracking regional sales, product KPIs, and revenue trends. |
-| **HR Analytics Dashboard**         | Power BI               | Analyzed employee attrition, satisfaction, and performance across departments. |
+| **HR Analytics Dashboard**   [View HR Analytics Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/HR%20Analytics.md)      | Power BI               | Analyzed employee attrition, satisfaction, and performance across departments. |
 | **Student Health Performance**     | Excel, Power BI        | Correlated health indicators with academic outcomes. |
 | **Fayamask Project Analysis**      | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
 | **Air Canada Supreme Dashboard**   | Power BI               | Operational metrics and performance insights for airline services. |
