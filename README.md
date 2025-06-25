@@ -21,7 +21,7 @@ To leverage data-driven insights to support strategic decision-making, empower t
 
 ## About Me
 
-I am a versatile professional with experience across data analytics, project coordination, academic lecturing, and mentorship. My work bridges the gap between complex data and actionable insights—whether in the classroom, boardroom, or field.  
+I am a versatile professional with experience across data analytics, project coordination, academic lecturing, and mentorship. My work bridges the gap between complex data and actionable insights, whether in the classroom, boardroom, or field.  
 I thrive in collaborative environments where learning is continuous and challenges are embraced with curiosity.
 
 ---
@@ -49,7 +49,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 
 ---
 
-## 📊 Projects
+## Projects
 
 | Project Title                      | Tools Used            | Description |
 |------------------------------------|------------------------|-------------|
