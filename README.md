@@ -58,7 +58,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 | **Student Health Performance**     | Excel, Power BI        | Correlated health indicators with academic outcomes. |
 | **Fayamask Project Analysis**      | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
 | **Air Canada Supreme Dashboard**   | Power BI               | Operational metrics and performance insights for airline services. |
-| **Palmoria HR Project*  [View Palmoria Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Palmoria%20Project.md) | Excel, SQL             | Monitored disbursements, repayment trends, and risk levels. |
+| **Palmoria HR Project**  [View Palmoria Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Palmoria%20Project.md) | Excel, SQL             | Monitored disbursements, repayment trends, and risk levels. |
 
 ---
 
