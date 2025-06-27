@@ -56,7 +56,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 | **Sales & Revenue Dashboard**  [View Sales Performance Analysis](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Sales%20Performance/Readme.md)    | Power BI, Excel        | Interactive dashboard tracking regional sales, product KPIs, and revenue trends. |
 | **HR Analytics Dashboard**   [View HR Analytics Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/HR%20Analytics)     | Power BI               | Analyzed employee attrition, satisfaction, and performance across departments. |
 | **Student Health Performance** [View Student Mental Health Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Student%20Mental%20Health%20Project/README.md)    | Excel, Power BI        | Correlated health indicators with academic outcomes. |
-| **Fayamask Project Analysis**      | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
+| **Fayamask Project Analysis**   [View Fayamask Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/Fayamask%20Report)   | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
 | **Air Canada Supreme Dashboard**   | Power BI               | Operational metrics and performance insights for airline services. |
 | **Palmoria HR Project**  [View Palmoria Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/Palmoria%20Project) | Excel, Power BI             | Monitored disbursements, repayment trends, and risk levels. |
 
@@ -65,9 +65,6 @@ I thrive in collaborative environments where learning is continuous and challeng
 ## Let's Connect
 
 Feel free to explore the projects above and reach out if you're interested in collaborating or learning together.  
-📧 Email: [Emailaddress] (yewandetaylor@hotmail.com)  
-🔗 LinkedIn: (https://www.linkedin.com/in/yewandeprofile/)
-🌐 Portfolio Website: [yourportfolio.com](https://yourportfolio.com) *(optional)*
 
 ---
 <!--
