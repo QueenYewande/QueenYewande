@@ -45,7 +45,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 | **Business Tools** | Microsoft Office Suite, Business Analysis Tools |
 | **Project Tools**  | Trello, Jira, Asana, MS Project             |
 | **Collaboration**  | Teams, Slack, Google Workspace              |
-| **Database**       | MySQL                                       |
+| **Database**       | MsSQL                                       |
 
 ---
 
@@ -53,7 +53,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 
 | Project Title                      | Tools Used            | Description |
 |------------------------------------|------------------------|-------------|
-| **Sales & Revenue Dashboard**      | Power BI, Excel        | Interactive dashboard tracking regional sales, product KPIs, and revenue trends. |
+| **Sales & Revenue Dashboard**  [View Sales Performance Analysis](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Sales%20Performance/Readme.md)    | Power BI, Excel        | Interactive dashboard tracking regional sales, product KPIs, and revenue trends. |
 | **HR Analytics Dashboard**   [View HR Analytics Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/HR%20Analytics)     | Power BI               | Analyzed employee attrition, satisfaction, and performance across departments. |
 | **Student Health Performance** [View Student Mental Health Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Student%20Mental%20Health%20Project/README.md)    | Excel, Power BI        | Correlated health indicators with academic outcomes. |
 | **Fayamask Project Analysis**      | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
