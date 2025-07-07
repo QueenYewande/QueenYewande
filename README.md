@@ -34,7 +34,7 @@ I thrive in collaborative environments where learning is continuous and challeng
   Planning, scheduling, and tracking team deliverables to meet deadlines.
 
 - **Team Leadership & Mentorship**  
-  Guiding junior analysts and leading collaborative projects.
+  Guiding aspiring analysts and leading collaborative projects.
 
 - **Teaching & Training**  
   Explaining technical concepts in simple, understandable ways.
