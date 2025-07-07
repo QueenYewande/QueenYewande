@@ -14,7 +14,7 @@
 ###
 #  Mission 
 
-To help businesses and individuals **make smarter decisions using data**. I aim to bleverage data-driven insights to support strategic decision-making, empower teams through knowledge sharing, and continuously explore innovative solutions that make an impact in business and academia.
+To help businesses and individuals **make smarter decisions using data**. I aim to leverage data-driven insights to support strategic decision-making, empower teams through knowledge sharing, and continuously explore innovative solutions that make an impact in business and academia.
 
 ---
 
