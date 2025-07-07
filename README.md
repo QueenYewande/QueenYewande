@@ -25,7 +25,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 
 ---
 
-##  Skills
+#  Skills
 
 - **Data Analysis & Visualization**  
   Cleaning, transforming, and analyzing data for business value.
