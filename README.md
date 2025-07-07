@@ -69,7 +69,15 @@ I thrive in collaborative environments where learning is continuous and challeng
 
 ---
 
-## Let's Connect
+# Call to Action
+
+If you're looking for someone who:
+- Is passionate about **data storytelling**
+- Enjoys **collaborative teamwork**
+- Simplifies **complex ideas**
+- And always strives to **learn and lead**
+
+Let’s connect!
 
 Feel free to explore the projects above and reach out if you're interested in collaborating or learning together.  
 
