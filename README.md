@@ -44,8 +44,6 @@ I thrive in collaborative environments where learning is continuous and challeng
 
 ---
 
----
-
 # Tools & Technologies
 
 | Category           | Tools/Technologies                          |
