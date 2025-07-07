@@ -12,43 +12,53 @@
 </div>
 
 ###
-##  Mission 
+#  Mission 
 
-To leverage data-driven insights to support strategic decision-making, empower teams through knowledge sharing, and continuously explore innovative solutions that make an impact in business and academia.
+To help businesses and individuals **make smarter decisions using data**. I aim to bleverage data-driven insights to support strategic decision-making, empower teams through knowledge sharing, and continuously explore innovative solutions that make an impact in business and academia.
 
 ---
 
-## About Me
+# About Me
 
-I am a versatile professional with experience across data analytics, project coordination, academic lecturing, and mentorship. My work bridges the gap between complex data and actionable insights, whether in the classroom, boardroom, or field.  
+I am a versatile professional with experience across data analytics, project coordination, and mentorship, with a background in teaching and a strong passion for turning data into decisions. My work bridges the gap between complex data and actionable insights, whether in the classroom, boardroom, or field.  
 I thrive in collaborative environments where learning is continuous and challenges are embraced with curiosity.
 
 ---
 
 ##  Skills
 
-- Data Analysis & Visualization  
-- Project Planning & Coordination  
-- Team Leadership & Mentorship  
-- Academic Instruction & Curriculum Design  
-- Business Insight Development  
-- Reporting & Dashboard Creation
+- **Data Analysis & Visualization**  
+  Cleaning, transforming, and analyzing data for business value.
+
+- **Project Planning & Coordination**  
+  Planning, scheduling, and tracking team deliverables to meet deadlines.
+
+- **Team Leadership & Mentorship**  
+  Guiding junior analysts and leading collaborative projects.
+
+- **Teaching & Training**  
+  Explaining technical concepts in simple, understandable ways.
+
+- **Reporting, Communication & Dashboard Creation**  
+  Turning insights into clear dashboards, reports, and presentations.
 
 ---
 
-## Tools & Technologies
+---
+
+# Tools & Technologies
 
 | Category           | Tools/Technologies                          |
 |--------------------|---------------------------------------------|
-| **Data Analysis**  | Excel, Power BI, SQL, Python (Pandas, NumPy)|
+| **Data Analysis**  | Excel, Power BI, MsSQL, Python (Pandas, NumPy)|
 | **Business Tools** | Microsoft Office Suite, Business Analysis Tools |
 | **Project Tools**  | Trello, Jira, Asana, MS Project             |
-| **Collaboration**  | Teams, Slack, Google Workspace              |
-| **Database**       | MsSQL                                       |
+| **Collaboration**  | Teams, Slack, Zoom, Google meet, Google Workspace |
+| **Data Visualization**       | Power BI, Tableau, Excel PivotTables   |
 
 ---
 
-## Projects
+# Projects
 
 | Project Title                      | Tools Used            | Description |
 |------------------------------------|------------------------|-------------|
