@@ -66,7 +66,7 @@ I thrive in collaborative environments where learning is continuous and challeng
 | **Fayamask Project Analysis**   [View Fayamask Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/Power%20BI%20Projects/Fayamask%20Report/Readme.md)   | Excel, Power BI        | Business intelligence analysis of market engagement and brand performance. |
 | **Air Canada Supreme Dashboard** [View Air Canada Supreme Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/Air%20Canada%20Supreme%20Project#business-questions)  | Power BI               | Operational metrics and performance insights for airline services. |
 | **Palmoria HR Project**  [View Palmoria Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/Power%20BI%20Projects/Palmoria%20Project) | Excel, Power BI             | Monitored disbursements, repayment trends, and risk levels. |
-| **Adventure Works 2022**  [View Adventure Works Project](https://github.com/QueenYewande/Analytics-Portfolio/blob/main/SQL%20Projects/Adventure%20Works%202022/Readme.md) | SQL, SSMS            | Retail Sales Performance from Year 2013-2014 |
+| **Adventure Works 2022**  [View Adventure Works Project](https://github.com/QueenYewande/Analytics-Portfolio/tree/main/SQL%20Projects/AdventureWorks2022) | SQL, SSMS            | Retail Sales Performance from Year 2013-2014 |
 
 ---
 
